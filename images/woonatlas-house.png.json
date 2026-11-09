@@ -1,6 +1,0 @@
-{
-  "tool": "image_gen.imagegen built-in",
-  "prompt": "Generate a clean architectural image asset, not a website mockup. Use the reference ONLY for the Dutch dwelling, premium natural brick and timber, soft daylight and warm residential character. Render one highly realistic contemporary Dutch detached brick home and its modest garden, frontal three-quarter view, understated solar panels allowed as roof context. House fully visible, centered, large, beautifully proportioned, grounded in a real Dutch street; no equipment showroom. Warm calm morning light, restrained vegetation, natural materials, subtle depth. Image will be cropped to a panoramic homepage band and a tall left-column configurator image, so keep the complete central house as the anchor with usable neutral sky and garden around it. Landscape 1536x1024, very high architectural visualization quality. Absolutely NO text, typography, brand marks, interface, controls, badges, icons, charts, labels, watermarks, vehicles, glowing lines, decorative energy flows, battery or other appliance closeups. Remove ALL website elements from the reference. This is the subject-only image for semantic HTML overlays, not a screenshot or poster.",
-  "reference": "woonatlas-v2-werkgeversvoordeel.png",
-  "role": "clean architectural asset; no UI"
-}
